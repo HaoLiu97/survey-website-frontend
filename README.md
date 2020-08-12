@@ -1,6 +1,7 @@
 # surveyfront
 
 > A Vue.js project
+B/S课程project问卷网站前端，使用手册和测试文档请到后端仓库查阅。
 
 ## Build Setup
 
