@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+B/S 程序设计大作业问卷网站前端，使用vue完成，使用手册和测试文档请查阅后端仓库。
+
 ## Build Setup
 
 ``` bash
@@ -25,4 +27,3 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# survey-website-frontend
